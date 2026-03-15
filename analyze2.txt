@@ -1,0 +1,5 @@
+Analyzing pinch_zoom_image.dart...                              
+
+  error - 4 positional arguments expected by 'scaleByDouble', but 1 found - lib\widgets\pinch_zoom_image.dart:46:58 - not_enough_positional_arguments
+
+1 issue found. (ran in 5.2s)

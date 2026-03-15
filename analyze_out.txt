@@ -1,0 +1,10 @@
+Analyzing lib...                                                
+
+warning - The value of the field '_previousMatrix' isn't used - lib\widgets\pinch_zoom_image.dart:19:11 - unused_field
+   info - 'scale' is deprecated and shouldn't be used. Use scaleByVector3, scaleByVector4, or scaleByDouble instead - lib\widgets\pinch_zoom_image.dart:48:39 - deprecated_member_use
+warning - Unused import: 'package:cached_network_image/cached_network_image.dart' - lib\widgets\post_carousel.dart:2:8 - unused_import
+warning - The value of the field '_currentPage' isn't used - lib\widgets\post_carousel.dart:17:7 - unused_field
+   info - Use 'const' with the constructor to improve performance - lib\widgets\post_header.dart:20:25 - prefer_const_constructors
+   info - Use 'const' for final variables initialized to a constant value - lib\widgets\stories_list.dart:11:5 - prefer_const_declarations
+
+6 issues found. (ran in 2.8s)

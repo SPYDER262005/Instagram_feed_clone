@@ -1,0 +1,6 @@
+Analyzing lib...                                                
+
+   info - Use 'const' with the constructor to improve performance - lib\widgets\post_header.dart:20:25 - prefer_const_constructors
+   info - Use 'const' for final variables initialized to a constant value - lib\widgets\stories_list.dart:11:5 - prefer_const_declarations
+
+2 issues found. (ran in 3.6s)
