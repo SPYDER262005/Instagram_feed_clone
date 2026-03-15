@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- Banner Image Placeholder: Replace with actual banner if available -->
@@ -105,3 +106,6 @@ lib/
 <div align="center">
   <sub>Developed for the Flutter UI/UX Challenge. Obsessively detailed.</sub>
 </div>
+=======
+# Instagram_feed_clone
+>>>>>>> f82a27f3efe7ddb72e08145f6f2540f1efff970e
